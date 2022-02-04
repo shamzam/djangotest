@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'mymanager',
         'USER': 'nay',
         'PASSWORD': 'Nayhtooaung123',
-        'HOST': '103.195.7.150',
+        'HOST': 'localhost',
         'PORT': '3306'
     }
 }
